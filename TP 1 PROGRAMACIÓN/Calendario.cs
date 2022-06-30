@@ -375,6 +375,11 @@ namespace TP_1_PROGRAMACIÓN
         {
 
         }
+
+        private void Calendario_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

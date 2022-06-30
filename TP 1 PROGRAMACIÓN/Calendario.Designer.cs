@@ -144,6 +144,7 @@ namespace TP_1_PROGRAMACIÓN
             this.Controls.Add(this.button1);
             this.Name = "Calendario";
             this.Text = "Calendario";
+            this.Load += new System.EventHandler(this.Calendario_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

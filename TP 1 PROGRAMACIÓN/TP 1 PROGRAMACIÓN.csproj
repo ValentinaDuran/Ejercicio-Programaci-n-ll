@@ -52,8 +52,6 @@
     <Compile Include="Calendario.Designer.cs">
       <DependentUpon>Calendario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Calendario2.cs" />
-    <Compile Include="Calendario3.cs" />
     <Compile Include="Mes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
